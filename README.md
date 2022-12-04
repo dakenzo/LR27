@@ -10,7 +10,7 @@
 
 Рисунок 27.1 - Окно Hierarchy  
 
-![РИСУНОК](https://gspics.org/image/0XYhle)  
+![РИСУНОК](https://gspics.org/images/2022/12/04/0XYhle.png)  
 
 Рисунок 27.2 - Окно Scene  
 
